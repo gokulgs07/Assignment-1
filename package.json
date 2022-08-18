@@ -1,0 +1,17 @@
+{
+  "name": "17augass",
+  "version": "1.0.0",
+  "description": "Api_Fetching",
+  "main": "result.js",
+  "type": "module",
+  "scripts": {
+    "start":"node result",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
